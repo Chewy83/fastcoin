@@ -197,3 +197,5 @@ CSHA1& CSHA1::Reset()
     sha1::Initialize(s);
     return *this;
 }
+
+
